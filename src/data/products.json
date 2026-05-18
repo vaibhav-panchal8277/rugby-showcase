@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "brand": "Canterbury",
+    "name": "British & Irish Lions Pro Jersey",
+    "price": "£80.00",
+    "originalPrice": "",
+    "category": "Replica",
+    "image": "/images/rugby_shirt.png"
+  },
+  {
+    "id": 2,
+    "brand": "Gilbert",
+    "name": "Photon Match Rugby Ball",
+    "price": "£45.00",
+    "originalPrice": "£55.00",
+    "category": "Equipment",
+    "image": "/images/rugby_ball.png"
+  },
+  {
+    "id": 3,
+    "brand": "adidas",
+    "name": "Kakari Z.0 SG Rugby Boots",
+    "price": "£150.00",
+    "originalPrice": "£180.00",
+    "category": "Boots",
+    "image": "/images/rugby_boots.png"
+  },
+  {
+    "id": 4,
+    "brand": "Optimum",
+    "name": "Tribal Protective Headguard",
+    "price": "£24.99",
+    "originalPrice": "",
+    "category": "Protection",
+    "image": "/images/rugby_protection.png"
+  },
+  {
+    "id": 5,
+    "brand": "Under Armour",
+    "name": "Pro Training Shorts",
+    "price": "£30.00",
+    "originalPrice": "£40.00",
+    "category": "Clothing",
+    "image": "/images/rugby_shorts.png"
+  },
+  {
+    "id": 6,
+    "brand": "Macron",
+    "name": "Hooped Knee-High Socks",
+    "price": "£15.00",
+    "originalPrice": "",
+    "category": "Clothing",
+    "image": "/images/rugby_socks.png"
+  },
+  {
+    "id": 7,
+    "brand": "Puma",
+    "name": "Vintage Crest Fan Tee",
+    "price": "£25.00",
+    "originalPrice": "£35.00",
+    "category": "Clothing",
+    "image": "/images/rugby_tee.png"
+  },
+  {
+    "id": 8,
+    "brand": "Canterbury",
+    "name": "Vaposhield Training Jacket",
+    "price": "£65.00",
+    "originalPrice": "",
+    "category": "Clothing",
+    "image": "/images/rugby_jacket.png"
+  },
+  {
+    "id": 9,
+    "brand": "Mizuno",
+    "name": "Morelia Neo Premium Boots",
+    "price": "£195.00",
+    "originalPrice": "",
+    "category": "Boots",
+    "image": "/images/rugby_cleats_white.png"
+  },
+  {
+    "id": 10,
+    "brand": "Gilbert",
+    "name": "Precision Kicking Tee",
+    "price": "£12.99",
+    "originalPrice": "",
+    "category": "Equipment",
+    "image": "/images/rugby_kicking_tee.png"
+  },
+  {
+    "id": 11,
+    "brand": "Canterbury",
+    "name": "Ireland Away Replica Shirt",
+    "price": "£75.00",
+    "originalPrice": "£85.00",
+    "category": "Replica",
+    "image": "/images/rugby_replica_away.png"
+  },
+  {
+    "id": 12,
+    "brand": "Puma",
+    "name": "EvoSpeed Rugby Boots",
+    "price": "£135.00",
+    "originalPrice": "",
+    "category": "Boots",
+    "image": "/images/rugby_boots_red.png"
+  },
+  {
+    "id": 13,
+    "brand": "Optimum",
+    "name": "Heavy-Duty Tackle Bag",
+    "price": "£85.00",
+    "originalPrice": "£100.00",
+    "category": "Equipment",
+    "image": "/images/rugby_tackle_bag.png"
+  },
+  {
+    "id": 14,
+    "brand": "Shock Doctor",
+    "name": "Gel Max Mouthguard & Case",
+    "price": "£18.50",
+    "originalPrice": "",
+    "category": "Protection",
+    "image": "/images/rugby_mouthguard_case.png"
+  }
+]
