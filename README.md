@@ -92,6 +92,4 @@ apple-showcase/
 
 ## Browser Testing
 
-Tested and validated using [TestGrid.io](https://testgrid.io) for a smooth and reliable application experience.
-
-Using TestGrid helped ensure a consistent browsing experience and reliable functionality across supported browsers.
+Tested and validated using [TestGrid.io](https://testgrid.io)
