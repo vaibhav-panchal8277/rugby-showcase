@@ -62,24 +62,33 @@ apple-showcase/
 ## Screenshot of a application
 
 **Home Page**
-
-[image](assets\home.png)
+<p align="center">
+   <img src="assets\home.png" width="100%">
+</p>
 
 **list of items**
-
-[image](assets\items.png)
+<p align="center">
+   <img src="assets\items.png" width="100%">
+</p>
 
 **category items list**
 
-[image](assets\category items list.png)
+<p align="center">
+   <img src="assets\category items list.png" width="100%">
+</p>
+
 
 **add to card function**
 
-[image](assets\add to card.png)
+<p align="center">
+   <img src="assets\add to card.png" width="100%">
+</p>
 
 **create a account of user**
 
-[image](assets\create_account.png)
+<p align="center">
+   <img src="assets\create_account.png" width="100%">
+</p>
 
 ## Browser Testing
 
