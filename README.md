@@ -92,17 +92,6 @@ apple-showcase/
 
 ## Browser Testing
 
-This application was validated using [TestGrid.io](https://testgrid.io) to verify UI behavior and functionality across browser environments.
-
-Testing coverage included:
-
-- Navigation and category routing validation
-- Product collection rendering
-- Shopping cart interactions
-- Wishlist functionality
-- Account modal workflows
-- Responsive UI behavior
-- Product filtering and browsing experience
-- General interaction and user flow verification
+Tested and validated using [TestGrid.io](https://testgrid.io) for a smooth and reliable application experience.
 
 Using TestGrid helped ensure a consistent browsing experience and reliable functionality across supported browsers.
