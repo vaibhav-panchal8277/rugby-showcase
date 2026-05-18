@@ -2,9 +2,7 @@
 
 A traditional, high-density e-commerce storefront designed specifically for rugby sports equipment, replica clothing, and protective gear. 
 
-![Rugby Store Hero](public/images/rugby_hero.png)
-
-## 🌟 Overview
+## Overview
 
 This project is a fully functional mock e-commerce storefront. It features standard retail paradigms like promotional banners, a prominent search-centric header, category routing, and an interactive shopping flow.
 
@@ -15,13 +13,13 @@ This project is a fully functional mock e-commerce storefront. It features stand
 *   **Category Navigation:** Clicking categories like "Boots" or "Replica" instantly updates the view to show only relevant products—acting like a real multi-page application.
 *   **Custom AI Imagery:** The store is populated with 14 distinct, high-resolution AI-generated product images to ensure a premium, unbroken visual experience.
 
-## 📸 Store Previews
+## Store Previews
 
 | Premium Boots | Protective Gear | Match Equipment |
 | :---: | :---: | :---: |
 | <img src="public/images/rugby_boots.png" width="250" /> | <img src="public/images/rugby_mouthguard_case.png" width="250" /> | <img src="public/images/rugby_ball.png" width="250" /> |
 
-## 🛠 Tech Stack
+## Tech Stack
 
 *   **Frontend:** React 19 + Vite
 *   **Styling:** Tailwind CSS v4
@@ -29,7 +27,7 @@ This project is a fully functional mock e-commerce storefront. It features stand
 *   **Data Structure:** JSON-based mock backend (`products.json`)
 *   **State Management:** Complex React `useState` for Cart, Wishlist, Categories, and Modals.
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 apple-showcase/
@@ -53,7 +51,7 @@ apple-showcase/
 └── README.md
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 1.  **Install dependencies:** `npm install`
 2.  **Start the development server:** `npm run dev`
@@ -90,6 +88,6 @@ apple-showcase/
    <img src="assets\create_account.png" width="100%">
 </p>
 
-## Browser Testing
+## Testing
 
 Tested and validated using [TestGrid.io](https://testgrid.io)
