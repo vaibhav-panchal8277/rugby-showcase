@@ -57,7 +57,7 @@ apple-showcase/
 2.  **Start the development server:** `npm run dev`
 3.  **View the application:** Open `http://localhost:5173`
 
-## Screenshot of a application
+## Screenshot
 
 **Home Page**
 <p align="center">
