@@ -63,23 +63,23 @@ apple-showcase/
 
 **Home Page**
 
-![image](assets\home.png)
+[image](assets\home.png)
 
 **list of items**
 
-![image](assets\items.png)
+[image](assets\items.png)
 
 **category items list**
 
-![image](assets\category items list.png)
+[image](assets\category items list.png)
 
 **add to card function**
 
-![image](assets\add to card.png)
+[image](assets\add to card.png)
 
 **create a account of user**
 
-![image](assets\create_account.png)
+[image](assets\create_account.png)
 
 ## Browser Testing
 
