@@ -90,4 +90,4 @@ apple-showcase/
 
 ## Testing
 
-Tested and validated using [TestGrid.io](https://testgrid.io)
+<p>Tested and validated using <a href="https://testgrid.io">TestGrid.io</a></p>
